@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lt | head |sort|uniq
+ls -1 --sort-time | head -n 10
