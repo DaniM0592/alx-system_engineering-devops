@@ -1,2 +1,3 @@
 #!/bin/bash
-echo $"(($pOWER/$DIVIDE))"
+echo -e $(($DIVIDE/$POWER))
+
